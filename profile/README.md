@@ -1,6 +1,6 @@
 # Hi! Welcome to Utopia 🪑
 
-Welcome to the Utopia GitHub repository, in these repositories you will find all the source for the Utopia Source project
+Welcome to the Utopia GitHub page, in these repositories you will find all the source code for the Utopia OS project
 
 ## For developers
 
@@ -22,3 +22,9 @@ Welcome to the Utopia GitHub repository, in these repositories you will find all
 - [LaunchServices](https://github.com/UtopiaOS/LauchServices)
 - [BigBrother](https://github.com/UtopiaOS/BigBrother)
 - [Alien](https://github.com/UtopiaOS/Alien)
+
+## Follow the developers
+
+- [Diego Magdaleno](https://github.com/DiegoMagdaleno)
+- [Paul Munteanu](https://github.com/luth31)
+- [Spencer](https://github.com/spencer005)
